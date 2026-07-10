@@ -1,0 +1,6 @@
+{
+  "name": "NovaChat",
+  "description": "Secure end-to-end encrypted messaging and calling application with high-performance modern Material 3 interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
